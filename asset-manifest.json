@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Xobin/static/css/main.7457b4d7.css",
+    "main.js": "/Xobin/static/js/main.fb974bef.js",
+    "static/media/logo.png": "/Xobin/static/media/logo.a33bdf957f4d9fa5c8b8.png",
+    "index.html": "/Xobin/index.html",
+    "main.7457b4d7.css.map": "/Xobin/static/css/main.7457b4d7.css.map",
+    "main.fb974bef.js.map": "/Xobin/static/js/main.fb974bef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7457b4d7.css",
+    "static/js/main.fb974bef.js"
+  ]
+}
