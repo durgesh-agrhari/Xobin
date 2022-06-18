@@ -1,0 +1,24 @@
+.leftside{
+    /* width: calc(100% - 700px - 24px); */
+    width: 50%;
+    height: 100vh;
+    float: left;
+}
+
+.rightside{
+    width: 50%;
+    height: 100vh;
+    float: right;
+}
+
+.leftside{
+    background-color: blue;
+}
+.auth-container-1{
+    margin: 200px 30px 30px 30px;
+    color: wheat;
+}
+
+.rightside{
+    background-color: green;
+}
